@@ -4,11 +4,10 @@
 <div align="center">
   <a href="https://github.com/diogoantoniomelo">
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=diogoantoniomelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-    
-    
+</div> 
+<div align="center">
   <img height="180em" width="360em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoantoniomelo&layout=compact&langs_count=7&theme=dark"/>
- </div>
+  </div>
   
  ## Tecnologias
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
