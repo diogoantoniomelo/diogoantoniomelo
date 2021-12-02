@@ -1,6 +1,10 @@
-## Olá, eu sou o Diogo Melo
+## Olá, eu sou o Diogo
 
-
+📖 - Atualmente estou estudando NodeJS<br />
+👨‍💼 - Trabalho como Analistas de Sistema Jr <br />
+👨‍🎓 - Cursando Análise e desenvolvimentos de sistemas<br />
+<br />
+<br />
 <div align="center">
   <a href="https://github.com/diogoantoniomelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoantoniomelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,12 +23,3 @@
   
  ## Onde me encontrar 
 <a href = https://www.linkedin.com/in/diogo-melo-4ab92589>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
- ##
-
-   
- 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-  
